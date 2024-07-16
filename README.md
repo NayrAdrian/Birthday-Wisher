@@ -5,7 +5,7 @@ Birthday Wisher is an automated E-Mail sender using Python, pandas, SMPTLIB, and
 - It is customizable on what letter you want and how many templates you want.
 *Email and Password* are for testing purposes only, please update.
 
-![5](https://github.com/user-attachments/assets/bfc087bc-0044-40f1-858c-d2f266412f67)
+![5](https://github.com/user-attachments/assets/40548f1d-114d-4bc6-a797-18bebad0e765)
 
 ![6](https://github.com/user-attachments/assets/1515ec7b-d2fb-45fd-af52-be7d8d78e551)
 
