@@ -3,7 +3,8 @@ Birthday Wisher is an automated E-Mail sender using Python, pandas, SMPTLIB, and
 - Checks the 'birthdays.csv', checks the birthday, and sends an E-mail using the letter template.
 - Each template is personalized and the [NAME] is updated depending on whose birthday it is. The templates also are randomized from letter_1, letter_2, and letter_3.
 - It is customizable on what letter you want and how many templates you want.
-*Email and Password* are for testing purposes only, please update.
+  
+*Email and Password are for testing purposes only.*
 
 ![5](https://github.com/user-attachments/assets/40548f1d-114d-4bc6-a797-18bebad0e765)
 
